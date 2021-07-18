@@ -22,9 +22,9 @@ print("""
                                                                                                                                                                            
                             
 """)
-username = input("user")
-password = input("pass")
-Target = input('target')
+username = input("user : ")
+password = input("pass : ")
+Target = input('target: ')
 def login1():
  
     global ig_did, csrftoken, sessionid
