@@ -5,8 +5,9 @@
 
 / pkg install python
 
-/ git clone https://github.com/TESLAHWUWGEV/TESLA.git
+/ git clone https://github.com/TESLAHWUWGEV/Tesla.git
 
-/ cd TESLA
+/ cd Tesla
 
-/ python TESLA
+/ python Tesla
+تمام
